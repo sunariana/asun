@@ -5,7 +5,7 @@ import utilStyles from '../../styles/utils.module.css';
 import Link from 'next/link';
  
 const name = 'Ariana Sun';
-export const siteTitle = 'Ariana Sun Website';
+export const siteTitle = 'Ariana Sun: Personal Website';
 
 export default function Layout({ children, home }) {
   return (
