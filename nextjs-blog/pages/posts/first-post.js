@@ -1,7 +1,8 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../../components/components/layout';
- 
+import Script from 'next/script';
+
 export default function FirstPost() {
   return (
     <Layout>
